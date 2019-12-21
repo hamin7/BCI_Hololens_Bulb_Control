@@ -11,3 +11,7 @@
   <li> 기능 선택 화면 Bulb에 맞게 고치기</li>
 </ol>
 
+## Vuforia Image Target
+<ul>
+  width는 mm 단위로 임의로 189로 설정 함
+</ul>
