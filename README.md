@@ -8,5 +8,6 @@
   <li> 시간기반 -> 프레임 기반 수정</li>
   <li> Eye Scene UDP 씹히는 문제</li>
   <li> 미들웨어와의 UDP 통신 코드 통일 문제</li>
+  <li> 기능 선택 화면 Bulb에 맞게 고치기</li>
 </ol>
 
