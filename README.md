@@ -13,5 +13,5 @@
 
 ## Vuforia Image Target
 <ul>
-  width는 mm 단위로 임의로 189로 설정 함
+  width는 mm 단위로 임의로 200로 설정 함
 </ul>
