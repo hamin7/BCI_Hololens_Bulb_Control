@@ -18,6 +18,9 @@
 
 ## 버전 관리
 <ol>
+  <li> Dev_Ctr_어쩌구 <br>
+    - 프레임기반, 
+   <li>
   <li> Device_Control_191127 <br>
     - 시간기반, 자극 사이 대기시간 +8초
   </li>
