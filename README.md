@@ -18,7 +18,7 @@
 
 ## 버전 관리
 <ol>
-  <li> Dev_Ctr_어쩌구 <br>
+  <li> Dev_Ctr_어쩌구 (191125??, 시연용)<br>
     - 프레임기반, 
   </li>
   <li> Device_Control_191127 <br>
