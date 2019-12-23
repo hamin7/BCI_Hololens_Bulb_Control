@@ -34,4 +34,9 @@
   <li> 이미지 투명하게 만들기 <br>
     - https://pixlr.com/editor/
   </li>
-  
+</ol>
+
+## 이미지 수정 사항
+<ol>
+  <li> Red_bulb 배경을 좀 더 빨간색이 튀어 보이도록 </li>
+  <li> Silver_bulb 실버 좀 더 하얗게, 배경도 검은색 계열으로 </li>
