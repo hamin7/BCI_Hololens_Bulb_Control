@@ -28,3 +28,10 @@
     - 시간기반
   </li>
 </ol>
+
+## 이미지 편집 툴
+<ol>
+  <li> 이미지 투명하게 만들기 <br>
+    - https://pixlr.com/editor/
+  </li>
+  
