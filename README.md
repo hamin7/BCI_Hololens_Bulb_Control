@@ -35,7 +35,7 @@
 ## 버전 관리
 <ol>
   <li> 2019.10.21. 시연용 - SSVEP_based_BCI <br>
-    - Hololens+Vuforia+UDP_ver6 기반 <br>
+    - Hololens+Vuforia+UDP_ver6 기반 (2019.10.17, version)<br>
     - Broadcast 미 반영 <br>
     - 
   </li>
